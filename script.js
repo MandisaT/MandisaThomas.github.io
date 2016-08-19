@@ -8,3 +8,5 @@ $(document).ready(function(){
 	function(){
 		$(this).find(".projectoverlay").fadeOut(100);
 	});
+
+});
